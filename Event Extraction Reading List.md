@@ -14,5 +14,5 @@ Maintained by Zhibing Zhang
 
 
 ### Aspect Prompt
-1. Yubo Ma, Zehao Wang, Yixin Cao, Mukai Li, Meiqi Chen, Kun Wang, Jing Shao.**Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction**ACL 2022.[[paper]](https://aclanthology.org/2022.acl-long.466.pdf) [[code]](https://github.com/mayubo2333/paie)
+1. Yubo Ma, Zehao Wang, Yixin Cao, Mukai Li, Meiqi Chen, Kun Wang, Jing Shao.**Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction**. ACL 2022.[[paper]](https://aclanthology.org/2022.acl-long.466.pdf) [[code]](https://github.com/mayubo2333/paie)
    - 张志冰计划精读
