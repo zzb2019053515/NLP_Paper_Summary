@@ -1,10 +1,6 @@
-Maintained by Zhibing Zhang
-
-
-
 ## Papers
 
-### Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT[code]
+### Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT![code](https://github.com/thunlp/LLM-generated-text-detection)
 ####  动机
 大型语言模型（llm），例如ChatGPT，由于其在各种任务上的出色性能，已经彻底改变了自然语言处理领域。尽管llm具有巨大的潜力，但它们也引起了严重的担忧，因为它们很可能被滥用。已经有使用llm进行学术作弊的案例报道。因此，识别llm生成的文本是一个紧迫的问题。
 #### 本文目的
